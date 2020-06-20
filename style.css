@@ -36,7 +36,7 @@ img:hover {
 	font-size:40px;
 }
 .content {
-	font-family:"Lucida Console";
+	font-family:"american typewriter";
 	font-size:20px;
 }
 
@@ -49,8 +49,22 @@ img:hover {
 	text-align:center;
 }
 
-.website-description, #video , .title, .image-table, .resource-table {
+#definition {
+	font-family:"didot";
+	font-size:25px;
+}
+
+.hashtag {
+	font-size:35px;
+}
+
+#video , .title, .image-table, .resource-table {
 	text-align:center;
+}
+
+.website-description {
+	text-align:center;
+	font-size:25px;
 }
 
 .tips-table {
@@ -68,5 +82,13 @@ img {
 }
 
 .tips-info, .tips-reactions {
-	border:2px solid
+	border:3px solid
+}
+
+.ways-to-cope-table {
+	font-size:25px;
+}
+
+#sources {
+	font-size:15px;
 }
