@@ -92,3 +92,58 @@ img {
 #sources {
 	font-size:15px;
 }
+
+.homepage-table, #homepage-image2 {
+	width:400px;
+}
+
+.homepage-image {
+	width:200px;
+}
+
+#homepage-image1 {
+	width:300px;
+}
+
+.menu-data1 {
+	width:300px;
+}
+
+.menu-data2 {
+	width:400px;
+}
+
+#def-title {
+	width:700px;
+}
+
+.resource-cover {
+	height:150px;
+	width:100px;
+}
+.twitter-tweet {
+	height:400px;
+	width:300px;
+}
+
+.youtube-vid {
+	height:315;
+	width:560;
+	frameborder:0px;
+}
+
+.help-table {
+	width:700px;
+}
+
+#reactions {
+	width:400px;
+}
+
+#cause {
+	width:100px;
+}
+
+.page3-images {
+	width:300px;
+}
